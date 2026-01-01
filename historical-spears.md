@@ -43,3 +43,49 @@ The extremely long thrusting spear that dominated European infantry warfare from
 -----
 
 These five represent a good cross-section of design philosophies: the pilum optimized for a single devastating throw, the dory balanced for phalanx thrusting, the assegai designed for rapid throwing followed by melee, the yari reflecting Japanese bladesmithing traditions, and the pike maximizing reach in massed formations. Any of these could serve as inspiration for competition spear designs, though the dory and assegai are probably closest to your competition parameters given their intermediate length and dual-purpose capability.
+
+Here are five additional historical spear types with different design philosophies and use cases:
+
+-----
+
+## 6. Sarissa (Macedonian)
+
+The extraordinarily long pike that enabled Alexander the Great's conquests. Each phalangite carried as his primary weapon a sarissa, a double-pointed pike over 6 meters (18 ft) in length. Modern reconstructions have shown that a 5.8 meter pike could weigh no more than 4.05 kg.  The sarissa required two hands to wield, forcing soldiers to use a smaller shield suspended from the neck. Its extreme length meant the first five ranks could project their spear points beyond the front line simultaneously.
+
+**Wikipedia**: <https://en.wikipedia.org/wiki/Sarissa>
+
+-----
+
+## 7. Qiang (Chinese)
+
+The Chinese spear, known as "The King of Weapons" in martial arts tradition. Due to its relative ease of manufacture, the spear in many variations was ubiquitous on the pre-modern Chinese battlefield. It is known as one of the four major weapons, along with the gun (staff), dao (sabre), and the jian (straight sword).  Common features of the Chinese spear are the leaf-shaped blade and red horse-hair tassel lashed just below. The tassel aids in blurring the vision of the opponent so that it is more difficult for them to grab the shaft of spear behind the head or tip.
+
+**Wikipedia**: <https://en.wikipedia.org/wiki/Qiang_(spear)>
+
+-----
+
+## 8. Boar Spear (European)
+
+A specialized hunting spear with a distinctive crossbar design. Boar spears are relatively short and heavy, with two "lugs" or "wings" on the spearsocket behind the blade, which act as a barrier to prevent the spear from penetrating too deeply into the quarry where it might get stuck or break, and to stop an injured and furious boar from working its way up the shaft of the spear to attack the hunter.  The crossbar design was later adapted for military use, as it prevented over-penetration and made weapon withdrawal faster.
+
+**Wikipedia**: <https://en.wikipedia.org/wiki/Boar_spear>
+
+-----
+
+## 9. Angon (Frankish/Germanic)
+
+An early medieval barbed javelin descended from the Roman pilum. The angon was a type of javelin that was used during the Early Middle Ages by the Anglo-Saxons, Franks, Goths, and other Germanic peoples. It was similar to, and probably derived from, the pilum used by the Roman army and had a barbed head and long narrow socket or shank made of iron mounted on a wooden haft.  The barbed head and iron-sheathed shaft made it impossible to remove from shields or pull out of wounds, forcing enemies to discard their protection.
+
+**Wikipedia**: <https://en.wikipedia.org/wiki/Angon>
+
+-----
+
+## 10. Hasta (Roman)
+
+The Roman thrusting spear that predated the pilum and gave the *hastati* infantry their name. In later republican times, the hastati were re-armed with pila and gladii, and the hasta was only retained by the triarii. Unlike the pilum, verutum and lancea, the hasta was not thrown, but used for thrusting.  Triarii were armed with spears, or hastae, about 2 metres (6½ feet) long. They also carried swords, or gladii, about 84 centimetres (29 inches) long, in case the spear broke or the enemy drew too close.  The hasta represented Rome's earlier hoplite-style tactics before they developed their distinctive sword-and-javelin system.
+
+**Wikipedia**: <https://en.wikipedia.org/wiki/Hasta_(spear)>
+
+-----
+
+These five add useful variety to the earlier examples: the sarissa represents the extreme-length formation pike, the qiang shows Asian martial arts integration, the boar spear introduces purpose-built hunting design with the crossbar feature, the angon demonstrates barbed anti-shield tactics, and the hasta shows a balanced thrusting design. For your maker competition, the boar spear's crossbar concept and the qiang's tassel are particularly interesting design elements that competitors might adapt.
