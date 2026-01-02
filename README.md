@@ -1,4 +1,20 @@
-## Five Additional Competition Events
+# Maker Spear Competition
+
+This is a solid concept for a maker competition. The single-spear-across-all-events constraint creates interesting design tradeoffs—optimizing for one metric often compromises another.
+
+-----
+
+## Core Competition Events
+
+1. **Distance Throw** — Standard javelin-style, measured from a throwing line. Tests aerodynamics, balance point, weight-to-length ratio. Best of three throws, longest counts.
+1. **Accuracy Challenge** — Target rings at 10m, 15m, and 20m distances. Archery-style scoring (10/8/6/4/2/0). Three throws per distance, cumulative score. Tests consistency and precision balance.
+1. **Penetration Test** — Throw or thrust into a standardized medium (ballistic gel blocks, stacked corrugated cardboard, or closed-cell foam). Measured penetration depth. Tests point geometry, shaft rigidity, and energy transfer.
+1. **Durability Gauntlet** — Ten consecutive throws into a hard target (plywood backing with replaceable face). Spear inspected after each throw; scored on structural integrity (shaft cracks, tip deformation, binding failure). Tests material selection and construction quality.
+1. **Static Load Test** — Spear supported at both ends, weight incrementally added at center until failure or 50kg reached. Measures shaft strength and flex characteristics. Non-destructive if designed well; penalizes brittle designs.
+
+-----
+
+## Additional Competition Events
 
 **Throwing Events**
 
@@ -10,6 +26,69 @@
 1. **Thrust Repetition Test** — Competitor executes 20 controlled thrusts into a standardized target (layered foam with fabric facing) as quickly as possible. Scored on time to completion, with 2-second penalties for thrusts that miss the 15cm target zone. Tests point durability, shaft ergonomics, and grip security.
 1. **Braced Impact Resistance** — Spear braced at 45° angle against a fixed stop, butt grounded. A 15kg pendulum released from 1.5m arc height strikes the shaft 40cm behind the point. Three impacts; spear inspected after each. Scored on structural integrity (no visible damage = 10pts, cosmetic damage = 6pts, functional damage = 2pts, failure = 0pts). Tests shaft strength in compression and point-to-shaft joint integrity.
 1. **Obstacle Maneuver Course** — Timed course requiring the competitor to carry the spear through doorways, around pylons, over/under barriers, and execute three designated thrust-and-withdraw motions into targets. 5-second penalties for dropped spear, struck obstacles, or missed targets. Tests overall balance, length practicality, and handling characteristics.
+
+-----
+
+## Additional Rules to Draft
+
+**Design Specifications**
+
+- Overall length: 180–240cm
+- Maximum weight: 1.5kg
+- Point geometry constraints (max sharpness, tip radius minimum for safety)
+- Prohibited materials list (e.g., no carbon fiber if you want traditional builds, or no glass/ceramics for safety)
+- Budget cap with receipts required (e.g., $75 max materials cost, excluding tools)
+
+**Construction Rules**
+
+- Must be competitor-built (no purchased spearheads)
+- Build log/documentation required (photos of process)
+- Optional: timed build at event vs. bring-your-own
+
+**Competition Integrity**
+
+- Single spear, no substitutions
+- Field repairs permitted between events using only materials brought by competitor (5-minute limit)
+- If spear fails catastrophically mid-event, scores zero for remaining events
+- Ties broken by combined weight efficiency (performance ÷ spear weight)
+
+**Safety**
+
+- Mandatory tip covers when not on range
+- Designated throwing lanes with backstop and side barriers
+- Minimum spectator distance (15m behind thrower, 10m lateral)
+- Range officer controls all throws with verbal commands
+- No overhead throws (javelin release angle, not harpoon)
+
+-----
+
+## Event Organization Structure
+
+**Pre-Event**
+
+- Registration with design specification compliance check (24-48 hours before)
+- Published scoring weights if events aren't equally weighted
+- Liability waivers
+
+**Day-Of Schedule**
+
+- Morning: check-in, final inspection, weigh-in
+- Run events in order from least to most destructive (accuracy → distance → penetration → static load → durability gauntlet)
+- Allow 15-minute repair windows between events
+- Final scoring and awards
+
+**Venue Requirements**
+
+- Minimum 80m clear range (40m throwing + 40m overshoot buffer)
+- Backstop: stacked hay bales or earthen berm
+- Hard surface or stakes for static load test
+- Weather contingency plan
+
+**Judging**
+
+- Objective measurement for distance/penetration/load test
+- Defined rubric for durability inspection (photographs of damage for disputes)
+- At least two judges for subjective assessments
 
 -----
 
