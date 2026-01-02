@@ -1,6 +1,6 @@
 # Maker Spear Competition
 
-This is a solid concept for a maker competition. The single-spear-across-all-events constraint creates interesting design tradeoffs—optimizing for one metric often compromises another.
+The Maker Spear Competition challenges participants to design and build a single spear that performs across multiple events. This single-spear constraint creates meaningful design tradeoffs—optimizing for one metric often compromises another.
 
 -----
 
@@ -158,7 +158,7 @@ This is a solid concept for a maker competition. The single-spear-across-all-eve
 - Tungsten carbide
 - Ceramic (alumina, zirconia)
 - Glass
-- Depleted uranium (obviously)
+- Depleted uranium
 
 ### 2.5 Binding/Adhesive Materials — Permitted
 
@@ -535,4 +535,4 @@ Inspector: ________________  Signature: ________________
 
 -----
 
-This should give you a working foundation. Let me know if you want specific event scoring rubrics, a printable PDF version, or a budget spreadsheet template.
+*For questions about specific event scoring rubrics, printable PDF versions, or budget spreadsheet templates, please contact the event organizers.*

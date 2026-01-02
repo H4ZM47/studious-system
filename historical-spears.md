@@ -1,4 +1,4 @@
-Here are five historically significant spear types representing different cultures, eras, and tactical doctrines:
+The following is a curated selection of historically significant spear types representing different cultures, eras, and tactical doctrines.
 
 -----
 
@@ -42,9 +42,9 @@ The extremely long thrusting spear that dominated European infantry warfare from
 
 -----
 
-These five represent a good cross-section of design philosophies: the pilum optimized for a single devastating throw, the dory balanced for phalanx thrusting, the assegai designed for rapid throwing followed by melee, the yari reflecting Japanese bladesmithing traditions, and the pike maximizing reach in massed formations. Any of these could serve as inspiration for competition spear designs, though the dory and assegai are probably closest to your competition parameters given their intermediate length and dual-purpose capability.
+These five represent a cross-section of design philosophies: the pilum optimized for a single devastating throw, the dory balanced for phalanx thrusting, the assegai designed for rapid throwing followed by melee, the yari reflecting Japanese bladesmithing traditions, and the pike maximizing reach in massed formations. Any of these can serve as inspiration for competition spear designs. The dory and assegai are particularly relevant given their intermediate length and dual-purpose capability.
 
-Here are five additional historical spear types with different design philosophies and use cases:
+## Additional Historical Spear Types
 
 -----
 
@@ -88,4 +88,4 @@ The Roman thrusting spear that predated the pilum and gave the *hastati* infantr
 
 -----
 
-These five add useful variety to the earlier examples: the sarissa represents the extreme-length formation pike, the qiang shows Asian martial arts integration, the boar spear introduces purpose-built hunting design with the crossbar feature, the angon demonstrates barbed anti-shield tactics, and the hasta shows a balanced thrusting design. For your maker competition, the boar spear's crossbar concept and the qiang's tassel are particularly interesting design elements that competitors might adapt.
+These five add useful variety to the earlier examples: the sarissa represents the extreme-length formation pike, the qiang shows Asian martial arts integration, the boar spear introduces purpose-built hunting design with the crossbar feature, the angon demonstrates barbed anti-shield tactics, and the hasta shows a balanced thrusting design. For maker competitions, the boar spear's crossbar concept and the qiang's tassel are particularly notable design elements that competitors may find worth adapting.
