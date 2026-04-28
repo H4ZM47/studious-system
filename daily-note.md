@@ -1,5 +1,5 @@
 ---
-type: Daily Note
+type: null
 Date: 2026-04-28
 ---
 # Daily Note
