@@ -1,3 +1,7 @@
+---
+type: Note
+belongs_to: "[[spear-competition]]"
+---
 # Maker Spear Competition
 
 This is a solid concept for a maker competition. The single-spear-across-all-events constraint creates interesting design tradeoffs—optimizing for one metric often compromises another.
